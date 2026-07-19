@@ -1,0 +1,15 @@
+# Ignore local environment variables and secrets
+.env
+*.env
+secrets.txt
+credentials/
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore large virtual machine or log files if you test locally
+*.iso
+*.vmdk
+*.ovf
+*.log
