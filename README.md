@@ -19,3 +19,13 @@ After identifying a threat (such as a suspicious login), I follow these standard
 * **Account Isolation:** Document steps to disable or lock compromised user credentials temporarily.
 * **IP Analysis:** Trace the malicious origin IP address to prepare for firewall blocking rules.
 * **Incident Comments:** Add clean, professional logs into the incident notes detailing findings before shifting the status to **"Closed"**.
+
+
+
+---
+
+## 🧠 Daily AI Learning Log
+
+### Day 1 (20 August 2026)
+* **Topic:** Tokenization 🪙
+* **What I learned:** Large Language Models (LLMs) do not read whole words. They split text into smaller fragments called "tokens" and turn them into mathematical numbers to understand human language.
